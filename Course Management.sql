@@ -59,7 +59,7 @@ CREATE TABLE `member` (
 -- Dumping data for table `member`
 --
 
-/*Value of 0 is given to learners and 1 is igven to instructors*/
+/*Value of 0 is given to learners and 1 is given to instructors*/
 /*Member table serves as the Junction table between course and user*/
 INSERT INTO `member` (`user_id`, `course_id`, `role`) VALUES
 (1, 1, 1),
