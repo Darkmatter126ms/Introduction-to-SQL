@@ -13,7 +13,7 @@ This repository contains beginner-friendly SQL projects that demonstrate databas
   - Sorting tracks by length or release date
   - Using `JOIN` to combine information across tables
 
-📂 [View Project]()
+📂 [View Project](https://github.com/Darkmatter126ms/Introduction-to-SQL/blob/main/Music.sql)
 
 ---
 
